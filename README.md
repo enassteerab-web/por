@@ -63,4 +63,3 @@ This project presents a comprehensive **Power BI dashboard** analyzing survey da
 - Develop targeted recruitment strategies based on geographic data  
 - Create career path guidance for aspiring data professionals  
 
- **Project Structure**  
